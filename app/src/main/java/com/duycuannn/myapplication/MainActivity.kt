@@ -13,5 +13,10 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this, "I'm Quan", Toast.LENGTH_SHORT).show()
         Toast.makeText(this, "I'm Tuan Anh", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "Login", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "I'm Duy", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "I'm Duy", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "I'm Duy", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "I'm Duy", Toast.LENGTH_SHORT).show()
     }
 }
